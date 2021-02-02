@@ -1,2 +1,3 @@
-// Pretty please could you make me a function that passes the tests in default.test.js -
-// 
+// Pretty please could you make me some functions that pass the tests in default.test.js
+
+module.exports = {  };
