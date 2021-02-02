@@ -1,4 +1,4 @@
-const { cafeName, sandwichPrice}  = require("../src/destruction");
+const { cafeName, sandwichPrice}  = require("./src/destruction");
 
 
 describe('destructuring', () => {

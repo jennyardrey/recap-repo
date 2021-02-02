@@ -2,7 +2,7 @@ function RecordLabel() {
     this.bands = [];
   }
 RecordLabel.prototype.addBand = function addband(band) {
-    this.bands.push(band);
+    bands.push(band);
 };
 
 // Below, build a plain (ES5) object that fits the following specifications: 

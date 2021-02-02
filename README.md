@@ -7,17 +7,10 @@ We will be comvering the following -
 4. Using the spread operator
 5. Creating a function that takes default parameters
 
-Instructions for the exercise - 
+Much like the Bake Off technical challenge I will provide you with limited instructions - 
 
-Fork the repo to your own github
-
-clone it down to your machine
-
-make a new branch for your solutions
-
-commit your changes after each file is complete
-
-Once you have completed the tasks, push the repo to your remote
-
-
-Follow the instructions in each file and test file to make all the tests pass and complete all the challenges.
+- Get this repo on your own remote and make a new branch for your solutions
+- Install all dependencies
+- Work your way through the files following the instructions
+- When you are done create a pull request and merge your solutions branch into master
+- Watch out for bugs!

@@ -1,6 +1,6 @@
 const cafe = {
     name: "Jenny's",
-    capacity: 6,
+    capacity: 6
     menu: {
         sandwich: {
             price: 5
